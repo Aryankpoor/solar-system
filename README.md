@@ -21,3 +21,5 @@ once it installs and insuring there are no errors open the folder of cloned repo
 ![folder containing file.mp3](https://i.ibb.co/VSmrcVP/Capte.jpg)
 
 voila - you have extracted the audio from your video file
+
+I will also release a .exe version of the application so everyobdy can use it without python installed.
