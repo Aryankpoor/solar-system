@@ -6,7 +6,7 @@ How we convert is this way -
 Lets consider you cloned this repo . 
 This is the example image - 
 
-![Image of folder of cloned repo](https://i.ibb.co/S648CKH/Capture.jpg)
+![Image of folder of cloned repo](https://i.ibb.co/gM5gPHb/Screenshot-2021-10-10-153102.png)
 
 Now add a video file to the folder and rename it file.mp4
 
