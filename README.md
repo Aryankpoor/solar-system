@@ -16,7 +16,7 @@ Now make sure python is correctly installed on the system and you have installed
 
 ![command prompt window](https://i.ibb.co/pxvzFtk/h.jpg)
 
-once it installs and insuring there are no errors open the folder of cloned repo and run main.py . After 2-5 seconds or maybe max 10 seconds(rare occasion) cnsidering you have good internet and good system speed, suddenly you can see a file named file.mp3 in the folder. This is the audio file converted . There can be a difference in length of the two files of 0.5 to 1 second. 
+once it installs and insuring there are no errors open the folder of cloned repo and run main.py . After 2-5 seconds considering you have good internet and good system speed, suddenly you can see a file named file.mp3 in the folder. This is the audio file converted . There can be a difference in length of the two files of 0.5 to 1 second. 
 
 ![folder containing file.mp3](https://i.ibb.co/VSmrcVP/Capte.jpg)
 
